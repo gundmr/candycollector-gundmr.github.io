@@ -10,7 +10,8 @@
 * The player wins the game by defeating all enemy characters. The player loses the game the game if their character's HP falls to zero or below.
 
 ## Getting Started
-View applicaiton at: https://gundmr.github.io/Bootstrap-Portfolio/
+View applicaiton at:  https://gundmr.github.io/rpg-game/
+
 
 ## Built With
 * [Javascript](https://getbootstrap.com/) - Styling
